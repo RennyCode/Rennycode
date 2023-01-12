@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello there fellow traveler, I'm Renny.
 
-<!--
-**RennyCode/Rennycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+would you like to join my holy quest to spead the ML magic across Eberron.
 
-Here are some ideas to get you started:
+Together we will be unstopabble, and all mere serial coders will bow to our amense glory of our models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What skill do i possess you ask?
+
+* For years i've learned to master the ravenous Python, and now it bends to my will 🐍
+
+* I analyzed the enemy and can point out their weaknesses 📈
+
+*
+
+
+
+
+
+
+
+
+
+
+
