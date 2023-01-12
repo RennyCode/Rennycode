@@ -27,5 +27,6 @@ Together we will be unstopabble, and all mere serial coders will bow to the amen
 
 ### Hit me up at the tavern - 
 
-<a href="https://www.linkedin.com/in/renny-wang-8a2934223/">Linkedin</a>
-<img src="https://github.com/RennyCode/Rennycode/blob/main/linkedInIcon.png" width="20px"  href="https://www.linkedin.com/in/renny-wang-8a2934223/">  </img>
+<!-- <a href="https://www.linkedin.com/in/renny-wang-8a2934223/">Linkedin</a> -->
+
+<img src="https://github.com/RennyCode/Rennycode/blob/main/linkedInIcon.png" width="50px"  href="https://www.linkedin.com/in/renny-wang-8a2934223/">  </img>
