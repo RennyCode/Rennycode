@@ -28,4 +28,4 @@ Together we will be unstopabble, and all mere serial coders will bow to the amen
 ### Hit me up at the tavern - 
 
 <a href="https://www.linkedin.com/in/renny-wang-8a2934223/"><img src="https://github.com/RennyCode/Rennycode/blob/main/linkedInIcon.png" width="50px"></a>
-<a href="mailto:rennywang96@gmail.com"><img src="https://github.com/RennyCode/Rennycode/blob/main/gmail-logo-icon.png" width="50px"></a>
+<a href="mailto:rennywang96@gmail.com"><img src="https://github.com/RennyCode/Rennycode/blob/main/gmail-logo-icon.png" width="60px"></a>
