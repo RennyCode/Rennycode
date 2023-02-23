@@ -12,7 +12,7 @@ Together we shall be unstopabble, and all mere basic magic casters will bow to t
 
 * I possess the ability to analyze the enemies data so we can point out their weaknesses 📈
 
-* I'm well prepared to build ML Models to test their might
+* I'm well prepared to build ML Models to test their might:snake:
 
 ### You wish to know of my battle experience?
 
