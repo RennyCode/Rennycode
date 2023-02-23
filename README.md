@@ -4,15 +4,15 @@
 
 would you like to join my holy quest to spead the Coding magic across Eberron.
 
-Together we will be unstopabble, and all mere basic magic casters will bow to the amense glory of our models.
+Together we shall be unstopabble, and all mere basic magic casters will bow to the amense glory.
 
 ### What skill do i possess you ask?
 
 * For years i've learned to master the ravenous Python, and now it bends to my will 🐍
 
-* I can analyze the enemy and can point out their weaknesses 📈
+* I possess the ability to analyze the enemies data so we can point out their weaknesses 📈
 
-* We'll come prepared and build Models to fight our battles for us
+* I'm well prepared to build ML Models to test their might
 
 ### You wish to know of my battle experience?
 
