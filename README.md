@@ -1,10 +1,10 @@
 ## Hello there fellow traveler, I'm Renny.
 
-<img src="https://github.com/RennyCode/Rennycode/blob/main/summoner.png" width="200px">  </img>
-
 would you like to join my holy quest to spead the Coding magic across Eberron.
 
 Together we shall be unstopabble, and all mere basic magic casters will bow to the amense glory.
+
+<img src="https://github.com/RennyCode/Rennycode/blob/main/summoner.png" width="200px">  </img>
 
 ### What skill do i possess you ask?
 
