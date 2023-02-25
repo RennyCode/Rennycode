@@ -2,7 +2,7 @@
 
 Would you like to join my holy quest to spread the Coding magic across Eberron.
 
-Together we shall be unstopabble, and all mere basic magic casters will bow to the immense glory.
+Together we shall be unstoppable, and all mere basic magic casters will bow to the immense glory.
 
 <img src="https://github.com/RennyCode/Rennycode/blob/main/summoner.png" width="200px">  </img>
 
@@ -18,7 +18,7 @@ Together we shall be unstopabble, and all mere basic magic casters will bow to t
 
 * I've participated in many Kaggle competitions ~And Won
 
-* Alone I combined and masterd the triple threat of JS, HTML and CSS rule them all
+* Alone I combined and mastered the triple threat of JS, HTML and CSS rule them all
 
 * For 3 long years I trained under the classic institute of Afeka College Academy 
 
